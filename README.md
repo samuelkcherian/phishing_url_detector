@@ -7,7 +7,7 @@ A lightweight machine learning–based phishing URL detector built using handcra
 ## 🚀 Features
 
 - ✅ Detects phishing URLs based on 16+ manually extracted features
-- 🔍 Uses `RandomForestClassifier` for classification (97% accuracy)
+- 🔍 Uses `RandomForestClassifier` for classification (84% accuracy)
 - 🧠 Features include suspicious TLDs, IP usage, URL length, Levenshtein similarity to brand domains, and more
 - 🖥️ Tkinter GUI with cyber-inspired neon UI
 - 📦 Fully offline `.exe` version available (built with PyInstaller)
