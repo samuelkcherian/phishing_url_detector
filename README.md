@@ -18,7 +18,7 @@ A lightweight machine learning–based phishing URL detector built using handcra
 ## 📊 ML Model Details
 
 - **Algorithm**: RandomForestClassifier (n_estimators=100)
-- **Accuracy**: ~97% on test set
+- **Accuracy**: ~84% on test set
 - **Feature set**:
   - URL structure (dots, hyphens, subdomains, etc.)
   - Keyword detection (`login`, `paypal`, etc.)
